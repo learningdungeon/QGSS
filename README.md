@@ -97,10 +97,10 @@ Implement **Quantum Approximate Optimization Algorithm (QAOA)** to solve a simpl
 ## 📁 Repository Structure
 
 ```bash
-├── lab0_intro_to_quantum_circuits.ipynb
-├── lab1_quantum_chemistry.ipynb
-├── lab2_noise_mitigation.ipynb
-├── lab3_grover_algorithm.ipynb
-├── lab4_qaoa_portfolio_optimization.ipynb
+├── SuperPositionAndGates.ipynb
+├── Grover_Search_Algo.ipynb
+├── Qml.ipynb
+├── Quantum_Error_Mitigation.ipynb
+├── QAOA_Portfolio_Optimization.ipynb
 ├── RealDevice_BackendExecution.png
 ├── README.md
